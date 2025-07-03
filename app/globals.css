@@ -91,4 +91,7 @@ body {
   body {
     @apply bg-background text-foreground;
   }
+  .base{
+    @apply max-w-[1180px] mx-auto px-4;
+  }
 }
